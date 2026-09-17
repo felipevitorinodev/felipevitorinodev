@@ -1,9 +1,7 @@
 <p align="left">
   Desenvolvedor Full Stack PHP, Laravel e React.<br><br>
-  - 💼 Atualmente atuo como Desenvolvedor Full Stack na <strong>Softcom Tecnologia</strong>, desenvolvendo e mantendo aplicações web.<br>
-  - 🔧 Tenho experiência no desenvolvimento de APIs, sistemas web, integrações e interfaces modernas utilizando tecnologias do ecossistema PHP e JavaScript.<br>
-  - 📚 Busco constantemente evoluir minhas habilidades em desenvolvimento backend e frontend, aplicando boas práticas e novas tecnologias aos projetos.<br>
-  - ⚡ No tempo livre, gosto de desenvolver projetos pessoais, explorar novas tecnologias e transformar ideias em aplicações funcionais.
+  - Atualmente atuo como Desenvolvedor Full Stack na <strong>Softcom Tecnologia</strong>, desenvolvendo e mantendo aplicações web.<br>
+  - Tenho experiência no desenvolvimento de APIs, sistemas web, integrações e interfaces modernas utilizando tecnologias do ecossistema PHP e JavaScript.<br>
 </p>
 
 ###
@@ -20,8 +18,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" alt="Docker" />
   <img width="12" />
 </div>
 
